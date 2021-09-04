@@ -1,0 +1,9 @@
+#moh {
+	color: red;
+	background-color: yellow;
+	box-sizing: border-box;
+	border: 10px;
+	padding: 20px;
+	margin: 8px;
+	width: 300px;
+}
